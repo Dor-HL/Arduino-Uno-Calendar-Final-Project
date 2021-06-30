@@ -1,5 +1,5 @@
 # Arduino-Uno-Calendar-Final-Project
-A final project in a hardware course using the Arduino Uno and programming in C to make a physical interface for a calendar - using google calendar as reference.
+A final project in a hardware course using the Arduino Uno and programming in C to make a physical interface for a calendar.
 
 
 This project was in cooperation with the charity foundation of "Hinuh L'Psagot" which is an Israeli organization that helps children from ages 8-18 which have potential for greatness achieve their goals.
